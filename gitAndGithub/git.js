@@ -22,4 +22,5 @@ function generatePassword(){
     return pass;
 }
 
+console.log("GitHub done");
 console.log(generatePassword());
