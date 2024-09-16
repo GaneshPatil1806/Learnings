@@ -16,3 +16,5 @@ function generatePassword(){
     
     return pass;
 }
+
+console.log(generatePassword());
