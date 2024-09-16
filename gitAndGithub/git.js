@@ -2,10 +2,6 @@ function add (){
     return 1+2;
 }
 
-function subtract (){
-    return 1-2;
-}
-
 function multiply (){
     return 1*2;
 }
