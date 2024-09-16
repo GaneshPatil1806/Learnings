@@ -2,6 +2,10 @@ function add (){
     return 1+2;
 }
 
+function subtract (){
+    return 1-2;
+}
+
 function generatePassword(){
 
     const temp="1234567890qwertyuiopasdfghjklzxcvbnm,./';][=`";
